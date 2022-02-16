@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Lu:information_source:z! <br>
+I'm Lu:information_source:z. <br>
 :construction: Web developer :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br>
 How to reach me: luizh3bispo@gmail.com <br>
 Currently learning HTML, CSS3, Android Studio, Java and Kotlin.                                                 

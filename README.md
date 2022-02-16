@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+:construction: Web developer :construction: <br>        
+Astrophysicist :globe_with_meridians: - Universidade Federal de Sergipe (UFS)
+
+
 <!--
 **LuizHB/LuizHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

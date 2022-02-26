@@ -2,6 +2,7 @@
 I'm Lu:information_source:z. <br>
 :construction: Web developer :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br>
 How to reach me: luizh3bispo@gmail.com <br>
+Linkedin profile: https://www.linkedin.com/in/luizhdsbispo/
 Currently learning Bootstrap, Android Studio, Java and Kotlin. <br>
 Skills: HTML5, CSS3 and some Python
 

@@ -6,7 +6,7 @@
 
 
 
-<p align="center"> 📫 How to reach me **luizh3bispo@gmail.com** </p>
+<p align="center"> - 📫 How to reach me luizh3bispo@gmail.com </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

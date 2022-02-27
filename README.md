@@ -3,7 +3,7 @@
 I'm Lu:information_source:z. <br>
 :construction: Web developer :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br>
 Currently learning Bootstrap, Android Studio, Java and Kotlin. <br>
-- 📫 How to reach me **luizh3bispo@gmail.com** <br>
+📫 How to reach me **luizh3bispo@gmail.com** <br>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizhb" alt="luizhb" /></a> </p>

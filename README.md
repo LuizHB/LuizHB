@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
-<h3 align="center">:construction: Web developer :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br> Currently learning Bootstrap, Android Studio, Java and Kotlin. <br></h3>
+<h3 align="center">:construction: Frontend Developer Junior :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br> Currently learning Bootstrap, Android Studio, Java and Kotlin. <br></h3>
 
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizhb&theme=dracula" alt="luizhb" /></a> </p>

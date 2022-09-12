@@ -31,7 +31,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizhb&" alt="luizhb" /></p>
 
-
+ ![Snake animation](https://github.com/luizhb/luizhb/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--

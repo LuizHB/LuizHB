@@ -30,9 +30,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luizhb&show_icons=true&locale=en" alt="luizhb" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luizhb&" alt="luizhb" /></p>
-<div>
- ![Snake animation](https://github.com/luizhb/luizhb/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 <!--
 **LuizHB/LuizHB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

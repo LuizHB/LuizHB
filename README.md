@@ -6,8 +6,8 @@
 <h3 align="center">
 How to reach me:
 
+ 
 <a href="mailto: luizh3bispo@gmail.com"   target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://steamcommunity.com/id/luizhdsb/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a> 
 <a href="https://www.duolingo.com/profile/LuizHDSB" target="blank"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" /></a>
 <a href="https://open.spotify.com/user/12162880447" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
 

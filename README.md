@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz</h1>
-<h3 align="center">:construction: Astrophysicist, Developer and Test Analyst :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br> Currently learning C#, .NET and Robotframework with RPA. <br></h3>
+<h3 align="center">:construction: Astrophysicist, Developer and Test Analyst :construction: <br> Astrophysicist :globe_with_meridians: Universidade Federal de Sergipe (UFS) <br> Currently on Python and Robotframework with RPA. <br></h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luizhb&theme=dracula" alt="luizhb" /></a> </p>
 
